@@ -1,6 +1,6 @@
 # docker-opencv-node
 
-Docker image with compiled OpenCV and Node.js
+Docker image with compiled OpenCV and Node.js.
 
 [![](https://images.microbadger.com/badges/version/m03geek/opencv-node:alpine.svg)](https://microbadger.com/images/m03geek/opencv-node:alpine "version")[![](https://images.microbadger.com/badges/image/m03geek/opencv-node:alpine.svg)](https://microbadger.com/images/m03geek/opencv-node:alpine "layers")
 
