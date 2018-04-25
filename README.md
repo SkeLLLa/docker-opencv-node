@@ -8,6 +8,11 @@ Docker image with compiled OpenCV and Node.js.
 
 Based on [opencv image](https://hub.docker.com/r/m03geek/opencv/)
 
+# Versions (latest)
+
+* node - 10.0.0
+* opencv - 3.4.1
+
 # Notes
 
 If you want to use some native modules you'll need to install at least `python`.
